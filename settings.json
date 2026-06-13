@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "buildingsever-dMDz.aternos.me",
+    "port": 60779,
     "version": "1.21.1"
   },
   "position": {
